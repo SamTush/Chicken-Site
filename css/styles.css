@@ -1,0 +1,136 @@
+body{
+    background-color: #fffcf9;
+    font-family: 'Radio Canada', sans-serif;
+}
+
+footer{
+    text-align: center;
+}
+
+h3{
+    font-family: "Montserrat-black";
+}
+
+h3{
+    font-size: 2.5em;
+    color: #fff;
+}
+
+/* header */
+.logo-word{
+    width:fit-content;
+    font-family: "Montserrat-black";
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.6em;
+    padding: 2% 2% 0 2%;
+}
+
+.secondNav{
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav-item{
+    padding-right: 60px;
+}
+
+.float-right{
+    margin-right: 30px;
+}
+
+
+/* section */
+.header-images{
+    padding: 1.4% 2%;
+}
+
+.header-image{
+    border-radius: 10px;
+}
+
+.section-two{
+    text-align: center;
+    padding: 2% 10%;
+}
+
+.main-section{
+    background-color: #fff;
+}
+
+.section-two-div{
+    padding: 2% 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.section-two .section-two-div{
+    padding: 1% 5%;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    width: 24rem;
+    border-radius: 12px;
+}
+
+.card-pad{
+    margin: 2% 0;
+}
+
+.section-bottom{
+    background-color: #e8f5ec;
+}
+
+.card-img-top{
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+}
+
+.section-bottom p {
+    margin: 0 3%;  
+  }
+
+.section-bottom p{
+    color: gray;
+}
+
+/* footer */
+.gradient-div{
+    background: linear-gradient(to bottom right,  #d83c42, #ee9c5a );
+    border-radius: 12px;
+    padding: 40px;
+}
+
+.banner-img{
+    padding: 2% 12.8%;
+}
+
+.bottom-footer{
+    padding: 30px 20px;
+    line-height: 3;
+}
+
+.font-icon{
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+.footer-Nav{
+    padding: 80px 0 30px 0;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.send-message-btn{
+    text-align: center;
+    padding: 20px;
+}
