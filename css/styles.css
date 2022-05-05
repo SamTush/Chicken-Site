@@ -101,6 +101,15 @@ h3{
     color: gray;
 }
 
+@media (max-width: 1480px){
+    .card{
+        margin-left: auto;
+        margin-right: auto;
+        width: 18rem;
+        border-radius: 12px;
+    }
+}
+
 /* footer */
 .gradient-div{
     background: linear-gradient(to bottom right,  #d83c42, #ee9c5a );
